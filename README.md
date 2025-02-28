@@ -51,7 +51,7 @@ drakonsupport/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/drakonsupport.git
+   git clone https://github.com/goutamhegde002/drakonsupport.git
    cd drakonsupport
    ```
 
